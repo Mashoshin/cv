@@ -1,5 +1,4 @@
-# Evgeny Mashoshin
-![Profile Photo](insert_photo_url_here)
+# Yevhen Mashoshyn
 
 - **Male**, 26 years old
 - **Date of Birth**: February 10, 1997
@@ -23,7 +22,7 @@
 *June 2022 — Present, 1 year 3 months*
 
 #### PHP Backend Developer
-**Tech Stack**: PHP v8 - 8.2, Laravel, Docker, Linux, RabbitMQ, Redis, Postgres, PHPUnit, Composer, Nginx.
+**Tech Stack**: PHP v8 - 8.2, Laravel, Docker, Linux, RabbitMQ, Redis, Postgres, PHPUnit, Composer, Nginx.  
 **Patterns and Methodologies**: Scrum, OOP, DDD, MVC, REST, SOLID.
 - Developed cryptocurrency payment system cryptomus.com
 - Collaborated with scrum team
@@ -54,7 +53,7 @@
 - *September 2019 — August 2021, 1 years 11 month*
 
 #### PHP Developer
-**Tech Stack**: PHP7.4, Yii2, Docker, Linux, RabbitMQ, Redis, Postgres, PHPUnit, Composer, Nginx.
+**Tech Stack**: PHP7.4, Yii2, Docker, Linux, RabbitMQ, Redis, Postgres, PHPUnit, Composer, Nginx.  
 **Patterns and Methodologies**: Scrum, OOP, DDD, MVC, REST, SOLID.
 - Developed ESM platform for automating various business processes with the ability to implement off-the-shelf solutions such as SDLC, ITSM, CRM.
 - Collaborated with scrum team
@@ -89,14 +88,18 @@
 ### Skills
 - PHP; Docker; DDD; PostgreSQL; JavaScript; HTML; Linux; Git; Redis; RabbitMQ
 
+### Proficient in Learning
+
+- Golang
+
 ---
 
 ## Additional Information
 
 ### About Me
-- Open, communicative
-- During my free time, I engage in active sports and spend time with family
+I am a dedicated and innovative PHP Backend Developer with a passion for solving complex challenges in the world of technology. My extensive experience in building robust systems and collaborating with multidisciplinary teams has honed my ability to deliver high-quality solutions. I thrive in dynamic environments and excel in translating business requirements into technical implementations. In my free time, I enjoy staying active through sports and cherish moments spent with my family.
+
 
 ### Code Examples
-- [Authentication service on GitHub](https://github.com/Mashoshin/Auth-Service)
-- [GIF library on Packagist](https://packagist.org/packages/mashoshin/gifmaker)
+- [Authentication service on plain php](https://github.com/Mashoshin/Auth-Service)
+- [Library for generating GIF from MP4](https://packagist.org/packages/mashoshin/gifmaker)
