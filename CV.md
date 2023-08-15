@@ -34,7 +34,7 @@
 - Notable Modules:
   - Manual Convert System
   - Integrations with various cryptocurrency exchanges
-  - Reward Center
+  - Awards Center
   - P2P
 
 ### IT GLOBAL, St. Petersburg, itglobal.com
