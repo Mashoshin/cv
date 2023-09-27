@@ -17,7 +17,7 @@
 
 ## Employment Details
 
-### Enot.io, Kazan, cryptomus.com
+### cryptomus.com, Kazan
 
 *June 2022 — Present, 1 year 3 months*
 
